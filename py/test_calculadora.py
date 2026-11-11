@@ -1,5 +1,5 @@
 import unittest
-from calculadora import sumar
+from py.calculadora import sumar
 
 
 class TestCalculadora(unittest.TestCase):
